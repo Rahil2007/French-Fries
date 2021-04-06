@@ -1,2 +1,1 @@
-1 Potatoes
-2 Vegetable Oil
+Potatoes And Vegetable Oil
